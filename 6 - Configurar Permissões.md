@@ -5,7 +5,6 @@
 [![Static Badge](https://img.shields.io/badge/5-Conta_Inicial-red?style=for-the-badge)](./5%20-%20Configurar%20Conta%20Inicial%20ROSA.md)
 [![Static Badge](https://img.shields.io/badge/7-Acesso_com_GITHUB-red?style=for-the-badge)](./7%20-%20Configurar%20GitHub%20ROSA.md)
 
-
 ---
 ## Configurar um cluster Red Hat OpenShift Service on AWS (ROSA)
 

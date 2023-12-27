@@ -125,7 +125,6 @@ I: Admin user 'cluster-admin' has been deleted from cluster '<NOME_CLUSTER>'
 
 A **[configuração GitHub ROSA](./7%20-%20Configurar%20GitHub%20ROSA.md)** apresenta como configurar seu cluster para usar um provedor de identidade externo para autenticação de usuário.
 
-
 >## Referência
 >
 > - [Informações sobre como criar a conta cluster-admin](https://access.redhat.com/documentation/en-us/red_hat_openshift_service_on_aws/4/html-single/installing_accessing_and_deleting_rosa_clusters/index#rosa-sts-accessing-cluster)

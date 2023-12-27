@@ -58,7 +58,7 @@ Antes de usar o comando `rosa create idp`, certifique-se de ter usado os comando
 Adicione a opção `--cluster` ao comando `rosa create idp` para especificar o nome do seu cluster. Por padrão, o comando é executado no modo interativo.
 
 ```
-$ rosa create idp --cluster <NOME_CLUSTER>
+$ rosa create idp --cluster <NOME_CLUSTER> --interactive
 I: Interactive mode enabled.
 Any optional fields can be left empty and a default will be selected.
 ? Type of identity provider:  [Use arrows to move, type to filter]
